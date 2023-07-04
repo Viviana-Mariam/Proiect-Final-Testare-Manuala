@@ -10,6 +10,9 @@ Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-Us
 
 ### Functional specifications
 ---
+[PV-36-0g8wvlazxgif.pdf](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/files/11946371/PV-36-0g8wvlazxgif.pdf)
+
+
 ### 1.Testing Section
 ---
 #### 1.1 Test Planning
