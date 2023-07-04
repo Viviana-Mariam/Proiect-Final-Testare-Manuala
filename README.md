@@ -10,8 +10,6 @@ Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-Us
 
 ### Functional specifications
 ---
-![Tux, the Linux mascot](PV-36-0g8wvlazxgif.pdf)
-![story1](PV-36-0g8wvlazxgif.pdf)
 
 ### 1.Testing Section
 ---
