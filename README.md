@@ -10,7 +10,7 @@ Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-Us
 
 ### Functional specifications
 ---
-![Story_1](pdf_story/PV-36-0g8wvlazxgif.pdf)
+![ _Story_1:_   As an admin I want to have a subsection called "User Management" where I will be able to create logins and define privileges by assigning User Types.](pdf_story/PV-36-0g8wvlazxgif.pdf)
 
 ### 1.Testing Section
 ---
