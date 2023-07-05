@@ -34,9 +34,9 @@ The plan encompasses the identification of test items, the features targeted for
 - QA Engenieer - Bura Viviana Mariam.
 
 #### 1.1.2 Entry criteria defined
-- functional specifications are defined;
-- roles needed for the project are allocated;
-- initial project risks were detected and mitigated
+- Functional specifications are defined;
+- Roles needed for the project are allocated;
+- Initial project risks were detected and mitigated
 - Hardware and software configuration is established.
 - Input data is identified and prepared.
 - Authentication sessions and permissions are configured according to requirements.
@@ -46,6 +46,18 @@ The plan encompasses the identification of test items, the features targeted for
 - Expected results are clarified and documented.
 - Risks and limitations associated with testing and the software system are identified and addressed.
 #### 1.1.3 Exit criteria defined
+- The number of critical or unresolved errors is minimal or zero;
+- All planned tests have been completed;
+- All resolved bugs have been retested and approved by the QA team;
+- All functional and non-functional requirements have been tested and met;
+- System performance meets established requirements, including response time and load capacity;
+- The system is stable and free of critical errors or stability issues;
+- The necessary test reports have been generated and distributed;
+- Users and clients have approved the test results;
+- Deadline was reached;
+- No detected major risk remained un-mitigated.
+  
+
 #### 1.1.4 Test scope
 #### Tests in scope:
 #### Tests not in scope:
