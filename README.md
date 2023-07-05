@@ -10,7 +10,14 @@ Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-Us
 
 ### Functional specifications
 ---
-![ _Story_1:_   As an admin I want to have a subsection called "User Management" where I will be able to create logins and define privileges by assigning User Types.](pdf_story/PV-36-0g8wvlazxgif.pdf)
+![ _Story_1:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-36%20(1).png)
+![ _Story_2:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-37.png)
+![ _Story_3:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-38.png)
+![ _Story_4:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-39.png)
+![ _Story_5:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-40.png)
+![ _Story_6:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-41.png)
+![ _Story_7:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-42.png)
+
 
 ### 1.Testing Section
 ---
