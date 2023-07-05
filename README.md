@@ -50,8 +50,7 @@ The plan encompasses the identification of test items, the features targeted for
 - All planned tests have been completed;
 - All resolved bugs have been retested and approved by the QA team;
 - All functional and non-functional requirements have been tested and met;
-- System performance meets established requirements, including response time and load capacity;
-- The system is stable and free of critical errors or stability issues;
+- The system is free of critical;
 - The necessary test reports have been generated and distributed;
 - Users and clients have approved the test results;
 - Deadline was reached;
@@ -59,8 +58,9 @@ The plan encompasses the identification of test items, the features targeted for
   
 
 #### 1.1.4 Test scope
-#### Tests in scope:
-#### Tests not in scope:
+- Tests within scope: All the functionalities of the Admin module, as specified in the software requirement specifications, must undergo testing, including functional testing, exploratory testing, and GUI testing.
+- Tests outside scope: Performance testing, security testing, integration of the Admin module with other modules, and compatibility testing with multiple browsers are not included in the testing activities.
+
 #### 1.1.5 Risks detected
 #### Project risks:
 #### Product risks:
