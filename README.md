@@ -25,7 +25,7 @@ Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-Us
 
 The Test Plan is designed to describe all details of testing for the **"User Management"** and **"Job"** submodule from the **OrangeHRM** application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan encompasses the identification of test items, the features targeted for testing, the various types of testing to be conducted, the designated personnel responsible for testing, the required resources and schedule to accomplish the testing, as well as the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
 - Project manager - Sorin Marcu;   
@@ -36,7 +36,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.2 Entry criteria defined
 - functional specifications are defined;
 - roles needed for the project are allocated;
-- initial project risks were detected and mitigated.
+- initial project risks were detected and mitigated
+- Hardware and software configuration is established.
+- Input data is identified and prepared.
+- Authentication sessions and permissions are configured according to requirements.
+- The initial state of the system is set up and prepared for testing.
+- Test scenarios are defined and documented.
+- Non-functional requirements are specified and considered in the test plan.
+- Expected results are clarified and documented.
+- Risks and limitations associated with testing and the software system are identified and addressed.
 #### 1.1.3 Exit criteria defined
 #### 1.1.4 Test scope
 #### Tests in scope:
