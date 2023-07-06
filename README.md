@@ -85,6 +85,7 @@ Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodolo
 
 ### 1.3 Test Analysis
 After all the business requirements were clarified in a **Review** process, I created the following test conditions:
+(To view the original list as created in Jira click here)
 
 Test condition list 1
 
