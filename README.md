@@ -74,7 +74,13 @@ Modules or features of the application that involve complex logic and can be mor
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the project manager has reviewed and approved the test planning document and considers that the necessary conditions for starting the testing have been met.
 ### 1.2 Test Monitoring and Control
-It will be done by Agile methodology.
+Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodologia Agile Scrum 
+Product Backlog – prioritizarea testarii in functie de cerinte 
+Sprint – perioada de implementare a fost de o saptamana
+Daily Scrum – O sedinta unu la unu cu mentorul de cateva minute in care am discutat testele efectuate, daca sunt impedimente si ce urmeaza in testare 
+Sprint Planning Meeting – O scurtă sesiune de planificare a taskurilor urmatoare 
+Sprint Retrospective – la finalul saptamanii de sprint au fost generate diferite rapoarte de status
+
 ### 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
