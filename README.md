@@ -85,9 +85,12 @@ Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodolo
 
 ### 1.3 Test Analysis
 After all the business requirements were clarified in a **Review** process, I created the following test conditions:
+Test condition list 1
+![test condition list 1](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/test_condition/test_condition_list1.jpg)
+Test condition list 2
+![test condition list 2](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/test_condition/test_condition_list2.jpg)
 
 
-Enter test conditions here
 ### 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
