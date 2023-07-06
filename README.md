@@ -8,6 +8,10 @@ Application under test: [OrangeHRM](https://opensource-demo.orangehrmlive.com/we
 
 Documentation [https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf)
 
+Tools used: JIRA, Zephyr Squad, MySQL Workbench.
+
+The final project will be split into 2 sections: Testing section and SQL section.
+
 ### Functional specifications
 ---
 ![ _Story_1:_](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/story.png/PV-36%20(1).png)
