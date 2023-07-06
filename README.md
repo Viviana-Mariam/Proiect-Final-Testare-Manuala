@@ -85,13 +85,14 @@ Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodolo
 
 ### 1.3 Test Analysis
 After all the business requirements were clarified in a **Review** process, I created the following test conditions:
+
 (To view the original list as created in **Jira** [click here](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/tree/main/Jira_test_condition) )
 
-Test condition list 1
+Test condition, list 1:
 
 ![test condition list 1](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/test_condition/test_condition_list1.jpg)
 
-Test condition list 2
+Test condition, list 2:
 
 ![test condition list 2](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/test_condition/test_condition_list2.jpg)
 
