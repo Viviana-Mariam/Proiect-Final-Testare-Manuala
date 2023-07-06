@@ -84,7 +84,7 @@ Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodolo
 - Sprint Retrospective – la finalul saptamanii de sprint au fost generate diferite rapoarte de status
 
 ### 1.3 Test Analysis
-After all the business requirements were clarified in a Review process, we created the following test conditions:
+After all the business requirements were clarified in a **Review** process, I created the following test conditions:
 
 
 Enter test conditions here
