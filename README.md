@@ -68,9 +68,9 @@ The QA team's lack of experience; incomplete and inaccurate requirement specific
 Modules or features of the application that involve complex logic and can be more challenging to test and understand;the risk that the application fails to fully or satisfactorily meet the requirements and expectations of users; the application does not operate at the desired performance level, such as slow response times or slowdowns when handling demanding tasks.
 
 #### 1.1.6 Evaluating entry criteria
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+The entry criterias defined in the Test Planning phase have been achieved and the project manager has reviewed and approved the test planning document and considers that the necessary conditions for starting the testing have been met.
 ### 1.2 Test Monitoring and Control
-It will be done by generating periodic reports that reflect the current status of the test.
+It will be done by Agile methodology.
 ### 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
