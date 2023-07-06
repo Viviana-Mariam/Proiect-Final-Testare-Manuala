@@ -75,13 +75,13 @@ Modules or features of the application that involve complex logic and can be mor
 The entry criterias defined in the Test Planning phase have been achieved and the project manager has reviewed and approved the test planning document and considers that the necessary conditions for starting the testing have been met.
 
 ### 1.2 Test Monitoring and Control
-Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodologia **Agile Scrum**
+As an approach in the monitoring and control process, we were guided by the **Agile Scrum** methodology
 
 - Product Backlog – prioritizarea testarii in functie de cerinte 
-- Sprint – perioada de implementare a fost de o saptamana
-- Daily Scrum – O sedinta unu la unu cu mentorul de cateva minute in care am discutat testele efectuate, daca sunt impedimente si ce urmeaza in testare 
-- Sprint Planning Meeting – O scurtă sesiune de planificare a taskurilor urmatoare 
-- Sprint Retrospective – la finalul saptamanii de sprint au fost generate diferite rapoarte de status
+- Sprint – prioritization of testing according to requirements
+- Daily Scrum – a one-on-one session with the mentor for a few minutes in which we discussed the tests performed, if there are any impediments and what is next in the testing
+- Sprint Planning Meeting – a short planning session of the following tasks 
+- Sprint Retrospective – at the end of the sprint week, different status reports were generated
 
 ### 1.3 Test Analysis
 After all the business requirements were clarified in a **Review** process, I created the following test conditions:
