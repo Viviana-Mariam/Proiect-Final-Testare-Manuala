@@ -77,7 +77,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ### 1.2 Test Monitoring and Control
 As an approach in the monitoring and control process, we were guided by the **Agile Scrum** methodology
 
-- Product Backlog – prioritizarea testarii in functie de cerinte 
+- Product Backlog – prioritization of testing according to requirements 
 - Sprint – prioritization of testing according to requirements
 - Daily Scrum – a one-on-one session with the mentor for a few minutes in which we discussed the tests performed, if there are any impediments and what is next in the testing
 - Sprint Planning Meeting – a short planning session of the following tasks 
