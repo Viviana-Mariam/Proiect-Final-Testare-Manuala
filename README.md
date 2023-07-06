@@ -84,7 +84,8 @@ Ca si abordare in procesul de monitorizare si control ne-am ghidat dupa metodolo
 - Sprint Retrospective – la finalul saptamanii de sprint au fost generate diferite rapoarte de status
 
 ### 1.3 Test Analysis
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+After all the business requirements were clarified in a Review process, we created the following test conditions:
+
 
 Enter test conditions here
 ### 1.4 Test Design
