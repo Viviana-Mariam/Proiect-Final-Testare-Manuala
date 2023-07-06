@@ -63,7 +63,10 @@ The plan encompasses the identification of test items, the features targeted for
 
 #### 1.1.5 Risks detected
 #### Project risks:
+The QA team's lack of experience; incomplete and inaccurate requirement specifications; a short deadline for the Zephyr trial, the risk that certain serious defects may not be identified during testing and may reach the production environment;insufficient or inaccurate specifications of software functionalities that can lead to incorrect or incomplete testing.
 #### Product risks:
+Modules or features of the application that involve complex logic and can be more challenging to test and understand;the risk that the application fails to fully or satisfactorily meet the requirements and expectations of users; the application does not operate at the desired performance level, such as slow response times or slowdowns when handling demanding tasks.
+
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 ### 1.2 Test Monitoring and Control
