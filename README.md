@@ -98,7 +98,8 @@ Test condition, list 2:
 
 
 ### 1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
+The application was tested through the static testing technique (Review) and through the black box dynamic testing techniques (boundary value analysis,equivalence partitioning) .
+Functional test cases were created in Zephyr Squad.
 
 Test cases: -> enter here test cases or at least the titles
 
