@@ -101,7 +101,6 @@ Test condition, list 2:
 The application was tested through the static testing technique (Review) and through the black box dynamic testing techniques (boundary value analysis,equivalence partitioning) .
 Functional test cases were created in Zephyr Squad.
 
-Test cases: -> enter here test cases or at least the titles
 
 The test cases with steps can be viewed here: test_cases.pdf
 
