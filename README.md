@@ -118,9 +118,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ![bug_list](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/jira_bug.jpg%20(2)/ScreenshotBugJira.jpg)
 For the bug with steps [click here](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/bug_jira.pdf/PDF%20(Jira).pdf)
-Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
-Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
-enter here bug titles
+
+
 ### 1.7 Test Completion
 Exit criteria was evaluated and passed
 The traceability matrix was generated and can be found here: Traceability_matrix.csv
