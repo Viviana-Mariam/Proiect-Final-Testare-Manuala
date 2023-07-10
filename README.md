@@ -115,6 +115,8 @@ The following elements are needed to be ready before the test execution phase be
 
 - Test tool setup - setup and preparation of test tools required for test execution,the cycle summary is created and the test cases to be executed are added to the cycle summary.
 ### 1.6 Test Execution
+
+![bug_list](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/jira_bug.jpg%20(2)/ScreenshotBugJira.jpg)
 Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
 enter here bug titles
