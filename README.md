@@ -109,7 +109,11 @@ Functional test cases were created in Zephyr Squad.
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-enter here what needs to be ready for the test execution to begin
+- Verifying the integrity of the test environment - ensuring that the test environment is fully functional and there are no technical issues that could affect testing.
+
+- Ensuring the availability of test data - providing and validating the test data necessary to execute the planned test cases, such as authentication data, basic test data or other specific data (username: Admin; password: admin123).
+
+- Test tool setup - setup and preparation of test tools required for test execution,the cycle summary is created and the test cases to be executed are added to the cycle summary.
 ### 1.6 Test Execution
 Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
 Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
