@@ -104,7 +104,7 @@ Functional test cases were created in Zephyr Squad.
 ![test_cases 1](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/test.jpg%20(2)/Screenshot%20test.jpg)
 
 
-The test cases with steps can be viewed here: test_cases.pdf
+  For the full list with test cases [click here](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/tests.pdf/Book1.pdf)
 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
