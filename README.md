@@ -121,9 +121,10 @@ For the bug with steps [click here](https://github.com/Viviana-Mariam/Proiect-Fi
 
 
 ### 1.7 Test Completion
-Exit criteria was evaluated and passed
-The traceability matrix was generated and can be found here: Traceability_matrix.csv
-Test execution chart was generated, the final report shows.... -> describe the final report
--> enter here test execution report/chart
+- Exit criteria was evaluated and passed
+- The deadline has been reached, but there are still critical errors in the application
+- All 50 tests planned for execution were executed
+- A total of 11 errors were found
+- Exit criteria were evaluated and passed
 
 ### 2 SQL section
