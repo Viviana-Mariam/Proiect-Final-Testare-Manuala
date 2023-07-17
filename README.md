@@ -135,3 +135,14 @@ I created a database for the "User Management" submodule from the  OrangeHRM app
 
 It can be seen that the users table is in a **one-to-one relationship** with the users_status table and in a **one-to-many relationship** with the users_contact table
 
+The tables that I have created look like this:
+
+![userId](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/table.sql/users_table.jpg)
+
+![userContact](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/table.sql/users_contact.table.jpg)
+
+![status_table](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/table.sql/users_status.jpg)
+
+
+
+
