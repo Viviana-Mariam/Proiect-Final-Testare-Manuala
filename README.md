@@ -131,4 +131,5 @@ For the bug with steps [click here](https://github.com/Viviana-Mariam/Proiect-Fi
 ### 2 SQL section
 
 I created a database for the "User Management" submodule from the orangehrm application, consisting of 3 tables where different data can be entered and with which the information from this submodule can be managed.
+![Diagram](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/EER%20Diagram.jpg)
 
