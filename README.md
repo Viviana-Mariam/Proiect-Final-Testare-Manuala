@@ -144,5 +144,8 @@ The tables that I have created look like this:
 ![status_table](https://github.com/Viviana-Mariam/Proiect-Final-Testare-Manuala/blob/main/table.sql/users_status.jpg)
 
 
+In these tables you can add users, delete users, and you can also search for information related to the users in the table by applying different filters.
+
+
 
 
