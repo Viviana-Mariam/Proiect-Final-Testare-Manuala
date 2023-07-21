@@ -146,7 +146,7 @@ The tables that I have created look like this:
 
 
 
-In these tables you can add users, delete users, and you can also search for information related to the users in the table by applying different filters.
+In these tables you can add users, delete users, and you can also search for information related to the users in the table by applying different filters or different joins.
 
 
 
